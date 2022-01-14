@@ -134,6 +134,9 @@ button {
     padding-bottom: 80px;
     display: flex;
     justify-content: center;
+    border-bottom: solid #F29559 1px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 .centerContent {
